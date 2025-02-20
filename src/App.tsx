@@ -43,6 +43,7 @@ anchor.scrollIntoView({ behavior: 'smooth', block: 'center' })
           <li>Run the app</li>
           <li>Get the IP address of the other device, add it to the database, and click on it</li>
           <li>You can now send files, create conversations, and chat with other devices without having access to the internet</li>
+          <li>If you are using Windows, you might need to turn off the firewall</li>
         </ul>
         </div>
         <div className="container second-color" id="download">
