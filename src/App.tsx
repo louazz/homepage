@@ -41,7 +41,7 @@ anchor.scrollIntoView({ behavior: 'smooth', block: 'center' })
           <li>Download the app for your platform</li>
           <li>Install the app</li>
           <li>Run the app</li>
-          <li>Get the IP address of the other decice, add it to the database, and click on it</li>
+          <li>Get the IP address of the other device, add it to the database, and click on it</li>
           <li>You can now send files, create conversations, and chat with other devices without having access to the internet</li>
         </ul>
         </div>
@@ -50,7 +50,7 @@ anchor.scrollIntoView({ behavior: 'smooth', block: 'center' })
           <p>Our app is available on Linux, Mac Os, and Windows</p>
           <ul>
             <li><strong>Linux:</strong> You can eiher install the app using the debian package or run the App Image directly. <a href="/download/chatoffline_linux.zip" download><strong className="col">Download</strong></a></li>
-            <li><strong>Mac Os:</strong> unzip the compressed folder and copy its content to any directory in you computer. You can also install the dmg package directly. <a href="/download/chatoffline_mac.zip" download><strong className="col">Download</strong></a></li>
+            <li><strong>Mac Os:</strong> Unzip the compressed folder and copy its content to any directory in you computer. You can also install the dmg package directly. <a href="/download/chatoffline_mac.zip" download><strong className="col">Download</strong></a></li>
             <li><strong>Windows:</strong> You can run the executable directyl after unzipping the app or you can install it you the setup (chatoffline-1.0.0_setup.exe).  <a href="/download/chatoffline_windows.zip" download><strong className="col">Download</strong></a></li>
           </ul>
           <br/>
