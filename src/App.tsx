@@ -51,9 +51,12 @@ anchor?.scrollIntoView({ behavior: 'smooth', block: 'center' })
           <h4>Download the Desktop application now</h4>
           <p>Our app is available on Linux, Mac Os, and Windows</p>
           <ul>
-            <li><strong>Linux:</strong> You can eiher install the app using the debian package or run the App Image directly. <a href="/download/chatoffline_linux.zip" download><strong className="col">Download Linux</strong></a></li>
-            <li><strong>Mac Os:</strong> Unzip the compressed folder and copy its content to any directory in you computer. You can also install the dmg package directly. <a href="/download/chatoffline_mac.zip" download><strong className="col">Download Mac os</strong></a></li>
-            <li><strong>Windows:</strong> You can run the executable directyl after unzipping the app or you can install it you the setup (chatoffline-1.0.0_setup.exe).  <a href="/download/chatoffline_windows.zip" download><strong className="col">Download Windows</strong></a></li>
+            <li><strong>Linux:</strong> You can eiher install the app using the debian package or run the App Image directly.</li>
+            <li><a href="/download/chatoffline_linux.zip" download><strong className="col">Download for Linux</strong></a></li>
+            <li><strong>Mac Os:</strong> Unzip the compressed folder and copy its content to any directory in you computer. You can also install the dmg package directly.</li>
+            <li> <a href="/download/chatoffline_mac.zip" download><strong className="col">Download for Mac os</strong></a></li>
+            <li><strong>Windows:</strong> You can run the executable directyl after unzipping the app or you can install it you the setup (chatoffline-1.0.0_setup.exe).</li>
+            <li> <a href="/download/chatoffline_windows.zip" download><strong className="col">Download for Windows</strong></a></li>
           </ul>
           <br/>
         </div>
