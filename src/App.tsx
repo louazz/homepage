@@ -26,7 +26,7 @@ anchor?.scrollIntoView({ behavior: 'smooth', block: 'center' })
         </div>
         <center>
           <br />
-          <h1>Welcome to The ChatOffline <PiBirdThin /></h1>
+          <h1>Welcome to ChatOffline <PiBirdThin /></h1>
           <p>Do you know that you can send files to other devices in the same network without having access to the internet?</p>
           <button className="button button-light tuto" onClick={()=>{window.open(Image)}}>Tutorial</button>
         
