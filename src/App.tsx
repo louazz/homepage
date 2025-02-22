@@ -55,7 +55,7 @@ anchor?.scrollIntoView({ behavior: 'smooth', block: 'center' })
             <li><a href="https://www.dropbox.com/scl/fi/ei0o2dt1llwhkwrb2sw7d/chatoffline_linux.zip?rlkey=2wbtl48fb21fmpevhxn0pbi8v&st=gd2xrdan&dl=0" download><strong className="col">Download for Linux</strong></a></li>
             <li><strong>Mac Os:</strong> Unzip the compressed folder and copy its content to any directory in you computer. You can also install the dmg package directly.</li>
             <li> <a href="https://www.dropbox.com/scl/fi/sk13jg37una7hkvyr8cnt/chatoffline-mac.zip?rlkey=rpjk21ijap6ukltxlkbx799lf&st=3cdmwtij&dl=0" download><strong className="col">Download for Mac os</strong></a></li>
-            <li><strong>Windows:</strong> You can run the executable directyl after unzipping the app or you can install it you the setup (chatoffline-1.0.0_setup.exe).</li>
+            <li><strong>Windows:</strong> You can run the executable directly after unzipping the app or you can install ir using the setup (chatoffline-1.0.0_setup.exe).</li>
             <li> <a href="https://www.dropbox.com/scl/fi/5ypjjw103wuty4rw0hm10/chatoffline_windows.zip?rlkey=xo10afd3oyqyzu9z4uroce2dq&st=9ioh270u&dl=0" download><strong className="col">Download for Windows</strong></a></li>
           </ul>
           <br/>
